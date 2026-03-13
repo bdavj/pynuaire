@@ -1,4 +1,4 @@
-# pinuaire
+# PyNuaire
 
 Reverse-engineered UART protocol for the **Nuaire Drimaster ECO-HC** whole-house mechanical extract ventilation (dMEV) fan, enabling programmatic speed control via serial.
 
@@ -45,9 +45,9 @@ See [PROTOCOL.md](PROTOCOL.md) for full protocol documentation.
 - **`main.py`** - Original Raspberry Pi Pico UART decoder (MicroPython)
 - **`captures/`** - Saleae logic analyser exports at each speed level and during transitions
 
-## Why "pinuaire"?
+## Why "PyNuaire"?
 
-Pi + Nuaire. The original plan was a Raspberry Pi controller, but any device with an inverted UART will work.
+Python + Nuaire. Any device with an inverted UART will work as the serial adapter.
 
 ## Contributing
 
