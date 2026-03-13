@@ -1,0 +1,1199 @@
+name	type	start_time	duration	data	error
+
+Async Serial [1]	data	3.300810625	0.000164875	0x1B	
+Async Serial [1]	data	3.300982875	0.000164875	0x1B	
+Async Serial [1]	data	3.301155125	0.000164875	0x38	
+Async Serial [1]	data	3.3013275	0.000164875	0x32	
+Async Serial [1]	data	3.30149975	0.000164875	0x3A	
+Async Serial [1]	data	3.301672	0.000164875	0x3B	
+Async Serial [1]	data	3.30184425	0.000164875	0x30	
+Async Serial [1]	data	3.3020165	0.000164875	0x3C	
+Async Serial [1]	data	3.30218875	0.000164875	0x30	
+Async Serial [1]	data	3.302361	0.000164875	0x30	
+Async Serial [1]	data	3.302533375	0.000164875	0x30	
+Async Serial [1]	data	3.302705625	0.000164875	0x31	
+Async Serial [1]	data	3.302877875	0.000164875	0x30	
+Async Serial [1]	data	3.303050125	0.000164875	0x33	
+Async Serial [1]	data	3.3032225	0.000164875	0x30	
+Async Serial [1]	data	3.30339475	0.000164875	0x30	
+Async Serial [1]	data	3.303567	0.000164875	0x30	
+Async Serial [1]	data	3.30373925	0.000164875	0x30	
+Async Serial [1]	data	3.30392875	0.000164875	0x30	
+Async Serial [1]	data	3.304101125	0.000164875	0x30	
+Async Serial [1]	data	3.304273375	0.000164875	0x30	
+Async Serial [1]	data	3.304445625	0.000164875	0x30	
+Async Serial [1]	data	3.304618	0.000164875	0x30	
+Async Serial [1]	data	3.30479025	0.000164875	0x30	
+Async Serial [1]	data	3.3049625	0.000164875	0x30	
+Async Serial [1]	data	3.305134875	0.000164875	0x30	
+Async Serial [1]	data	3.305307	0.000164875	0x30	
+Async Serial [1]	data	3.305479375	0.000164875	0x30	
+Async Serial [1]	data	3.30565175	0.000164875	0x30	
+Async Serial [1]	data	3.305824	0.000164875	0x30	
+Async Serial [1]	data	3.30599625	0.000164875	0x30	
+Async Serial [1]	data	3.3061685	0.000164875	0x30	
+Async Serial [1]	data	3.306340875	0.000164875	0x30	
+Async Serial [1]	data	3.306513125	0.000164875	0x30	
+Async Serial [1]	data	3.306685375	0.000164875	0x30	
+Async Serial [1]	data	3.30685775	0.000164875	0x30	
+Async Serial [1]	data	3.30703	0.000164875	0x30	
+Async Serial [1]	data	3.30720225	0.000164875	0x30	
+Async Serial [1]	data	3.3073745	0.000164875	0x30	
+Async Serial [1]	data	3.307546875	0.000164875	0x30	
+Async Serial [1]	data	3.307719125	0.000164875	0x30	
+Async Serial [1]	data	3.3078915	0.000164875	0x30	
+Async Serial [1]	data	3.30806375	0.000164875	0x30	
+Async Serial [1]	data	3.308236	0.000164875	0x30	
+Async Serial [1]	data	3.30840825	0.000164875	0x30	
+Async Serial [1]	data	3.3085805	0.000164875	0x30	
+Async Serial [1]	data	3.30875275	0.000164875	0x3F	
+Async Serial [1]	data	3.30894225	0.000164875	0x38	
+Async Serial [1]	data	3.3091145	0.000164875	0x38	
+Async Serial [1]	data	3.30928675	0.000164875	0x31	
+Async Serial [1]	data	3.309459	0.000164875	0x30	
+Async Serial [1]	data	3.30963125	0.000164875	0x30	
+Async Serial [1]	data	3.309803625	0.000164875	0x30	
+Async Serial [1]	data	3.309975875	0.000164875	0x30	
+Async Serial [1]	data	3.310148125	0.000164875	0x30	
+Async Serial [1]	data	3.3103205	0.000164875	0x30	
+Async Serial [1]	data	3.31049275	0.000164875	0x30	
+Async Serial [1]	data	3.310665125	0.000164875	0x32	
+Async Serial [1]	data	3.310837375	0.000164875	0x30	
+Async Serial [1]	data	3.31100975	0.000164875	0x30	
+Async Serial [1]	data	3.311182125	0.000164875	0x34	
+Async Serial [1]	data	3.311354375	0.000164875	0x38	
+Async Serial [1]	data	3.31152675	0.000164875	0x0D	
+Async Serial	data	3.337928875	0.000164875	0x1B	
+Async Serial	data	3.338118625	0.000164875	0x1B	
+Async Serial	data	3.338291125	0.000164875	0x38	
+Async Serial	data	3.338463625	0.000164875	0x31	
+Async Serial	data	3.338636125	0.000164875	0x3A	
+Async Serial	data	3.338808625	0.000164875	0x3B	
+Async Serial	data	3.338981125	0.000164875	0x30	
+Async Serial	data	3.339153625	0.000164875	0x3C	
+Async Serial	data	3.339326125	0.000164875	0x30	
+Async Serial	data	3.339498625	0.000164875	0x30	
+Async Serial	data	3.339671125	0.000164875	0x30	
+Async Serial	data	3.339843625	0.000164875	0x31	
+Async Serial	data	3.340119625	0.000164875	0x30	
+Async Serial	data	3.340292125	0.000164875	0x33	
+Async Serial	data	3.340464625	0.000164875	0x30	
+Async Serial	data	3.340637125	0.000164875	0x30	
+Async Serial	data	3.340809625	0.000164875	0x30	
+Async Serial	data	3.340982125	0.000164875	0x30	
+Async Serial	data	3.341154625	0.000164875	0x3A	
+Async Serial	data	3.341327125	0.000164875	0x32	
+Async Serial	data	3.341499625	0.000164875	0x30	
+Async Serial	data	3.341672125	0.000164875	0x31	
+Async Serial	data	3.34184475	0.000164875	0x30	
+Async Serial	data	3.342138	0.000164875	0x30	
+Async Serial	data	3.3423105	0.000164875	0x30	
+Async Serial	data	3.342483	0.000164875	0x30	
+Async Serial	data	3.342655625	0.000164875	0x34	
+Async Serial	data	3.342828125	0.000164875	0x3B	
+Async Serial	data	3.343000625	0.000164875	0x30	
+Async Serial	data	3.343173125	0.000164875	0x30	
+Async Serial	data	3.343345625	0.000164875	0x30	
+Async Serial	data	3.343518125	0.000164875	0x30	
+Async Serial	data	3.343690625	0.000164875	0x30	
+Async Serial	data	3.34386325	0.000164875	0x30	
+Async Serial	data	3.34413925	0.000164875	0x30	
+Async Serial	data	3.34431175	0.000164875	0x38	
+Async Serial	data	3.34448425	0.000164875	0x30	
+Async Serial	data	3.34465675	0.000164875	0x30	
+Async Serial	data	3.34482925	0.000164875	0x34	
+Async Serial	data	3.34500175	0.000164875	0x36	
+Async Serial	data	3.345174375	0.000164875	0x39	
+Async Serial	data	3.345346875	0.000164875	0x3C	
+Async Serial	data	3.34551925	0.000164875	0x30	
+Async Serial	data	3.345691875	0.000164875	0x30	
+Async Serial	data	3.345864375	0.000164875	0x30	
+Async Serial	data	3.346157625	0.000164875	0x30	
+Async Serial	data	3.346330125	0.000164875	0x3F	
+Async Serial	data	3.346502625	0.000164875	0x37	
+Async Serial	data	3.346675125	0.000164875	0x38	
+Async Serial	data	3.346847625	0.000164875	0x31	
+Async Serial	data	3.347020125	0.000164875	0x30	
+Async Serial	data	3.34719275	0.000164875	0x30	
+Async Serial	data	3.34736525	0.000164875	0x30	
+Async Serial	data	3.34753775	0.000164875	0x30	
+Async Serial	data	3.34771025	0.000164875	0x30	
+Async Serial	data	3.34788275	0.000164875	0x30	
+Async Serial	data	3.34815875	0.000164875	0x30	
+Async Serial	data	3.34833125	0.000164875	0x33	
+Async Serial	data	3.348503875	0.000164875	0x30	
+Async Serial	data	3.348676375	0.000164875	0x30	
+Async Serial	data	3.348848875	0.000164875	0x37	
+Async Serial	data	3.349021375	0.000164875	0x31	
+Async Serial	data	3.349193875	0.000164875	0x0D	
+Async Serial [1]	data	3.401233625	0.000164875	0x1B	
+Async Serial [1]	data	3.40142325	0.000164875	0x1B	
+Async Serial [1]	data	3.4015955	0.000164875	0x38	
+Async Serial [1]	data	3.401767875	0.000164875	0x32	
+Async Serial [1]	data	3.40194025	0.000164875	0x3A	
+Async Serial [1]	data	3.4021125	0.000164875	0x3B	
+Async Serial [1]	data	3.402284875	0.000164875	0x30	
+Async Serial [1]	data	3.402457125	0.000164875	0x3C	
+Async Serial [1]	data	3.4026295	0.000164875	0x30	
+Async Serial [1]	data	3.40280175	0.000164875	0x30	
+Async Serial [1]	data	3.402974125	0.000164875	0x30	
+Async Serial [1]	data	3.4031465	0.000164875	0x31	
+Async Serial [1]	data	3.403336	0.000164875	0x30	
+Async Serial [1]	data	3.40350825	0.000164875	0x33	
+Async Serial [1]	data	3.403680625	0.000164875	0x30	
+Async Serial [1]	data	3.403853	0.000164875	0x30	
+Async Serial [1]	data	3.40402525	0.000164875	0x30	
+Async Serial [1]	data	3.404197625	0.000164875	0x30	
+Async Serial [1]	data	3.404369875	0.000164875	0x30	
+Async Serial [1]	data	3.40454225	0.000164875	0x30	
+Async Serial [1]	data	3.4047145	0.000164875	0x30	
+Async Serial [1]	data	3.404886875	0.000164875	0x30	
+Async Serial [1]	data	3.405059125	0.000164875	0x30	
+Async Serial [1]	data	3.4052315	0.000164875	0x30	
+Async Serial [1]	data	3.40540375	0.000164875	0x30	
+Async Serial [1]	data	3.405576125	0.000164875	0x30	
+Async Serial [1]	data	3.405748375	0.000164875	0x30	
+Async Serial [1]	data	3.405920625	0.000164875	0x30	
+Async Serial [1]	data	3.406093	0.000164875	0x30	
+Async Serial [1]	data	3.40626525	0.000164875	0x30	
+Async Serial [1]	data	3.406437625	0.000164875	0x30	
+Async Serial [1]	data	3.406609875	0.000164875	0x30	
+Async Serial [1]	data	3.40678225	0.000164875	0x30	
+Async Serial [1]	data	3.4069545	0.000164875	0x30	
+Async Serial [1]	data	3.407126875	0.000164875	0x30	
+Async Serial [1]	data	3.407299125	0.000164875	0x30	
+Async Serial [1]	data	3.4074715	0.000164875	0x30	
+Async Serial [1]	data	3.40764375	0.000164875	0x30	
+Async Serial [1]	data	3.407816125	0.000164875	0x30	
+Async Serial [1]	data	3.407988375	0.000164875	0x30	
+Async Serial [1]	data	3.40816075	0.000164875	0x30	
+Async Serial [1]	data	3.40835025	0.000164875	0x30	
+Async Serial [1]	data	3.408522625	0.000164875	0x30	
+Async Serial [1]	data	3.408694875	0.000164875	0x30	
+Async Serial [1]	data	3.40886725	0.000164875	0x30	
+Async Serial [1]	data	3.4090395	0.000164875	0x30	
+Async Serial [1]	data	3.409211875	0.000164875	0x3F	
+Async Serial [1]	data	3.409384125	0.000164875	0x36	
+Async Serial [1]	data	3.4095565	0.000164875	0x38	
+Async Serial [1]	data	3.40972875	0.000164875	0x31	
+Async Serial [1]	data	3.409901	0.000164875	0x30	
+Async Serial [1]	data	3.410073375	0.000164875	0x30	
+Async Serial [1]	data	3.410245625	0.000164875	0x30	
+Async Serial [1]	data	3.410418	0.000164875	0x30	
+Async Serial [1]	data	3.41059025	0.000164875	0x30	
+Async Serial [1]	data	3.4107625	0.000164875	0x30	
+Async Serial [1]	data	3.410934875	0.000164875	0x30	
+Async Serial [1]	data	3.411107125	0.000164875	0x32	
+Async Serial [1]	data	3.411279375	0.000164875	0x30	
+Async Serial [1]	data	3.41145175	0.000164875	0x30	
+Async Serial [1]	data	3.411624	0.000164875	0x34	
+Async Serial [1]	data	3.411796375	0.000164875	0x3A	
+Async Serial [1]	data	3.41196875	0.000164875	0x0D	
+Async Serial	data	3.438468875	0.000164875	0x1B	
+Async Serial	data	3.438693125	0.000164875	0x1B	
+Async Serial	data	3.438865625	0.000164875	0x38	
+Async Serial	data	3.439038	0.000164875	0x31	
+Async Serial	data	3.4392105	0.000164875	0x3A	
+Async Serial	data	3.439383	0.000164875	0x3B	
+Async Serial	data	3.43964175	0.000164875	0x30	
+Async Serial	data	3.43981425	0.000164875	0x3C	
+Async Serial	data	3.43998675	0.000164875	0x30	
+Async Serial	data	3.440159125	0.000164875	0x30	
+Async Serial	data	3.440331625	0.000164875	0x30	
+Async Serial	data	3.440504125	0.000164875	0x31	
+Async Serial	data	3.440676625	0.000164875	0x30	
+Async Serial	data	3.440849125	0.000164875	0x33	
+Async Serial	data	3.441021625	0.000164875	0x30	
+Async Serial	data	3.441194125	0.000164875	0x30	
+Async Serial	data	3.44136675	0.000164875	0x30	
+Async Serial	data	3.44166	0.000164875	0x30	
+Async Serial	data	3.4418325	0.000164875	0x3A	
+Async Serial	data	3.442005	0.000164875	0x32	
+Async Serial	data	3.4421775	0.000164875	0x30	
+Async Serial	data	3.44235	0.000164875	0x31	
+Async Serial	data	3.442522625	0.000164875	0x30	
+Async Serial	data	3.442695125	0.000164875	0x30	
+Async Serial	data	3.442867625	0.000164875	0x30	
+Async Serial	data	3.443040125	0.000164875	0x30	
+Async Serial	data	3.443212625	0.000164875	0x34	
+Async Serial	data	3.443385125	0.000164875	0x3B	
+Async Serial	data	3.44366125	0.000164875	0x30	
+Async Serial	data	3.44383375	0.000164875	0x30	
+Async Serial	data	3.44400625	0.000164875	0x30	
+Async Serial	data	3.44417875	0.000164875	0x30	
+Async Serial	data	3.44435125	0.000164875	0x30	
+Async Serial	data	3.44452375	0.000164875	0x30	
+Async Serial	data	3.444696375	0.000164875	0x30	
+Async Serial	data	3.444868875	0.000164875	0x38	
+Async Serial	data	3.445041375	0.000164875	0x30	
+Async Serial	data	3.445213875	0.000164875	0x30	
+Async Serial	data	3.445386375	0.000164875	0x34	
+Async Serial	data	3.445679625	0.000164875	0x37	
+Async Serial	data	3.445852125	0.000164875	0x39	
+Async Serial	data	3.446024625	0.000164875	0x3C	
+Async Serial	data	3.44619725	0.000164875	0x30	
+Async Serial	data	3.44636975	0.000164875	0x30	
+Async Serial	data	3.44654225	0.000164875	0x30	
+Async Serial	data	3.44671475	0.000164875	0x30	
+Async Serial	data	3.44688725	0.000164875	0x3F	
+Async Serial	data	3.44705975	0.000164875	0x35	
+Async Serial	data	3.44723225	0.000164875	0x38	
+Async Serial	data	3.44740475	0.000164875	0x31	
+Async Serial	data	3.447680875	0.000164875	0x30	
+Async Serial	data	3.447853375	0.000164875	0x30	
+Async Serial	data	3.448025875	0.000164875	0x30	
+Async Serial	data	3.448198375	0.000164875	0x30	
+Async Serial	data	3.448370875	0.000164875	0x30	
+Async Serial	data	3.448543375	0.000164875	0x30	
+Async Serial	data	3.448715875	0.000164875	0x30	
+Async Serial	data	3.448888375	0.000164875	0x33	
+Async Serial	data	3.449060875	0.000164875	0x30	
+Async Serial	data	3.449233375	0.000164875	0x30	
+Async Serial	data	3.449405875	0.000164875	0x37	
+Async Serial	data	3.449681875	0.000164875	0x32	
+Async Serial	data	3.449854375	0.000164875	0x0D	
+Async Serial [1]	data	3.501626375	0.000164875	0x1B	
+Async Serial [1]	data	3.501850375	0.000164875	0x1B	
+Async Serial [1]	data	3.502022625	0.000164875	0x38	
+Async Serial [1]	data	3.502195	0.000164875	0x32	
+Async Serial [1]	data	3.50236725	0.000164875	0x3A	
+Async Serial [1]	data	3.5025395	0.000164875	0x3B	
+Async Serial [1]	data	3.502729125	0.000164875	0x30	
+Async Serial [1]	data	3.502901375	0.000164875	0x3C	
+Async Serial [1]	data	3.50307375	0.000164875	0x30	
+Async Serial [1]	data	3.503246	0.000164875	0x30	
+Async Serial [1]	data	3.50341825	0.000164875	0x30	
+Async Serial [1]	data	3.503590625	0.000164875	0x31	
+Async Serial [1]	data	3.503762875	0.000164875	0x30	
+Async Serial [1]	data	3.50393525	0.000164875	0x33	
+Async Serial [1]	data	3.5041075	0.000164875	0x30	
+Async Serial [1]	data	3.50427975	0.000164875	0x30	
+Async Serial [1]	data	3.504452125	0.000164875	0x30	
+Async Serial [1]	data	3.504624375	0.000164875	0x30	
+Async Serial [1]	data	3.504796625	0.000164875	0x30	
+Async Serial [1]	data	3.504969	0.000164875	0x30	
+Async Serial [1]	data	3.50514125	0.000164875	0x30	
+Async Serial [1]	data	3.505313625	0.000164875	0x30	
+Async Serial [1]	data	3.505486	0.000164875	0x30	
+Async Serial [1]	data	3.50565825	0.000164875	0x30	
+Async Serial [1]	data	3.505830625	0.000164875	0x30	
+Async Serial [1]	data	3.506002875	0.000164875	0x30	
+Async Serial [1]	data	3.50617525	0.000164875	0x30	
+Async Serial [1]	data	3.5063475	0.000164875	0x30	
+Async Serial [1]	data	3.506519875	0.000164875	0x30	
+Async Serial [1]	data	3.50669225	0.000164875	0x30	
+Async Serial [1]	data	3.5068645	0.000164875	0x30	
+Async Serial [1]	data	3.507036875	0.000164875	0x30	
+Async Serial [1]	data	3.507209125	0.000164875	0x30	
+Async Serial [1]	data	3.5073815	0.000164875	0x30	
+Async Serial [1]	data	3.50755375	0.000164875	0x30	
+Async Serial [1]	data	3.507743375	0.000164875	0x30	
+Async Serial [1]	data	3.507915625	0.000164875	0x30	
+Async Serial [1]	data	3.508088	0.000164875	0x30	
+Async Serial [1]	data	3.50826025	0.000164875	0x30	
+Async Serial [1]	data	3.508432625	0.000164875	0x30	
+Async Serial [1]	data	3.508604875	0.000164875	0x30	
+Async Serial [1]	data	3.508777125	0.000164875	0x30	
+Async Serial [1]	data	3.5089495	0.000164875	0x30	
+Async Serial [1]	data	3.50912175	0.000164875	0x30	
+Async Serial [1]	data	3.509294125	0.000164875	0x30	
+Async Serial [1]	data	3.509466375	0.000164875	0x30	
+Async Serial [1]	data	3.509638625	0.000164875	0x3F	
+Async Serial [1]	data	3.509811	0.000164875	0x34	
+Async Serial [1]	data	3.50998325	0.000164875	0x38	
+Async Serial [1]	data	3.5101555	0.000164875	0x31	
+Async Serial [1]	data	3.510327875	0.000164875	0x30	
+Async Serial [1]	data	3.510500125	0.000164875	0x30	
+Async Serial [1]	data	3.5106725	0.000164875	0x30	
+Async Serial [1]	data	3.51084475	0.000164875	0x30	
+Async Serial [1]	data	3.511017	0.000164875	0x30	
+Async Serial [1]	data	3.511189375	0.000164875	0x30	
+Async Serial [1]	data	3.511361625	0.000164875	0x30	
+Async Serial [1]	data	3.511534	0.000164875	0x32	
+Async Serial [1]	data	3.51170625	0.000164875	0x30	
+Async Serial [1]	data	3.511878625	0.000164875	0x30	
+Async Serial [1]	data	3.512050875	0.000164875	0x34	
+Async Serial [1]	data	3.51222325	0.000164875	0x3C	
+Async Serial [1]	data	3.5123955	0.000164875	0x0D	
+Async Serial	data	3.538949375	0.000164875	0x1B	
+Async Serial	data	3.539156375	0.000164875	0x1B	
+Async Serial	data	3.539328875	0.000164875	0x38	
+Async Serial	data	3.53950125	0.000164875	0x31	
+Async Serial	data	3.53967375	0.000164875	0x3A	
+Async Serial	data	3.53984625	0.000164875	0x3B	
+Async Serial	data	3.54012225	0.000164875	0x30	
+Async Serial	data	3.54029475	0.000164875	0x3C	
+Async Serial	data	3.54046725	0.000164875	0x30	
+Async Serial	data	3.540639625	0.000164875	0x30	
+Async Serial	data	3.540812125	0.000164875	0x30	
+Async Serial	data	3.540984625	0.000164875	0x31	
+Async Serial	data	3.541157125	0.000164875	0x30	
+Async Serial	data	3.541329625	0.000164875	0x33	
+Async Serial	data	3.541502125	0.000164875	0x30	
+Async Serial	data	3.541674625	0.000164875	0x30	
+Async Serial	data	3.541847125	0.000164875	0x30	
+Async Serial	data	3.542140375	0.000164875	0x30	
+Async Serial	data	3.542312875	0.000164875	0x3A	
+Async Serial	data	3.542485375	0.000164875	0x32	
+Async Serial	data	3.542658	0.000164875	0x30	
+Async Serial	data	3.5428305	0.000164875	0x31	
+Async Serial	data	3.543003	0.000164875	0x30	
+Async Serial	data	3.5431755	0.000164875	0x30	
+Async Serial	data	3.543348	0.000164875	0x30	
+Async Serial	data	3.5435205	0.000164875	0x30	
+Async Serial	data	3.543693	0.000164875	0x34	
+Async Serial	data	3.5438655	0.000164875	0x3B	
+Async Serial	data	3.544141625	0.000164875	0x30	
+Async Serial	data	3.544314	0.000164875	0x30	
+Async Serial	data	3.5444865	0.000164875	0x30	
+Async Serial	data	3.544659	0.000164875	0x30	
+Async Serial	data	3.5448315	0.000164875	0x30	
+Async Serial	data	3.545004	0.000164875	0x30	
+Async Serial	data	3.5451765	0.000164875	0x30	
+Async Serial	data	3.545349	0.000164875	0x38	
+Async Serial	data	3.5455215	0.000164875	0x30	
+Async Serial	data	3.545693875	0.000164875	0x30	
+Async Serial	data	3.545866375	0.000164875	0x34	
+Async Serial	data	3.546159625	0.000164875	0x30	
+Async Serial	data	3.546332125	0.000164875	0x39	
+Async Serial	data	3.546504625	0.000164875	0x3C	
+Async Serial	data	3.546677125	0.000164875	0x30	
+Async Serial	data	3.546849625	0.000164875	0x30	
+Async Serial	data	3.547022125	0.000164875	0x30	
+Async Serial	data	3.547194625	0.000164875	0x30	
+Async Serial	data	3.547367125	0.000164875	0x3F	
+Async Serial	data	3.547539625	0.000164875	0x33	
+Async Serial	data	3.547712125	0.000164875	0x38	
+Async Serial	data	3.547884625	0.000164875	0x31	
+Async Serial	data	3.548177875	0.000164875	0x30	
+Async Serial	data	3.548350375	0.000164875	0x30	
+Async Serial	data	3.548522875	0.000164875	0x30	
+Async Serial	data	3.54869525	0.000164875	0x30	
+Async Serial	data	3.54886775	0.000164875	0x30	
+Async Serial	data	3.54904025	0.000164875	0x30	
+Async Serial	data	3.54921275	0.000164875	0x30	
+Async Serial	data	3.54938525	0.000164875	0x33	
+Async Serial	data	3.54955775	0.000164875	0x30	
+Async Serial	data	3.54973025	0.000164875	0x30	
+Async Serial	data	3.54990275	0.000164875	0x37	
+Async Serial	data	3.55017875	0.000164875	0x3B	
+Async Serial	data	3.55035125	0.000164875	0x0D	
+Async Serial [1]	data	3.602034125	0.000164875	0x1B	
+Async Serial [1]	data	3.602206375	0.000164875	0x1B	
+Async Serial [1]	data	3.60237875	0.000164875	0x38	
+Async Serial [1]	data	3.602551	0.000164875	0x32	
+Async Serial [1]	data	3.60272325	0.000164875	0x3A	
+Async Serial [1]	data	3.602895625	0.000164875	0x3B	
+Async Serial [1]	data	3.603067875	0.000164875	0x30	
+Async Serial [1]	data	3.603240125	0.000164875	0x3C	
+Async Serial [1]	data	3.6034125	0.000164875	0x30	
+Async Serial [1]	data	3.60358475	0.000164875	0x30	
+Async Serial [1]	data	3.603757	0.000164875	0x30	
+Async Serial [1]	data	3.603929375	0.000164875	0x31	
+Async Serial [1]	data	3.604101625	0.000164875	0x30	
+Async Serial [1]	data	3.604274	0.000164875	0x33	
+Async Serial [1]	data	3.60444625	0.000164875	0x30	
+Async Serial [1]	data	3.604618625	0.000164875	0x30	
+Async Serial [1]	data	3.604791	0.000164875	0x30	
+Async Serial [1]	data	3.60496325	0.000164875	0x30	
+Async Serial [1]	data	3.6051355	0.000164875	0x30	
+Async Serial [1]	data	3.605307875	0.000164875	0x30	
+Async Serial [1]	data	3.605480125	0.000164875	0x30	
+Async Serial [1]	data	3.6056525	0.000164875	0x30	
+Async Serial [1]	data	3.60582475	0.000164875	0x30	
+Async Serial [1]	data	3.605997125	0.000164875	0x30	
+Async Serial [1]	data	3.6061695	0.000164875	0x30	
+Async Serial [1]	data	3.60634175	0.000164875	0x30	
+Async Serial [1]	data	3.606514125	0.000164875	0x30	
+Async Serial [1]	data	3.606686375	0.000164875	0x30	
+Async Serial [1]	data	3.606858625	0.000164875	0x30	
+Async Serial [1]	data	3.607031	0.000164875	0x30	
+Async Serial [1]	data	3.60720325	0.000164875	0x30	
+Async Serial [1]	data	3.6073755	0.000164875	0x30	
+Async Serial [1]	data	3.60754775	0.000164875	0x30	
+Async Serial [1]	data	3.60772	0.000164875	0x30	
+Async Serial [1]	data	3.607892375	0.000164875	0x30	
+Async Serial [1]	data	3.608064625	0.000164875	0x30	
+Async Serial [1]	data	3.608237	0.000164875	0x30	
+Async Serial [1]	data	3.60840925	0.000164875	0x30	
+Async Serial [1]	data	3.6085815	0.000164875	0x30	
+Async Serial [1]	data	3.608753875	0.000164875	0x30	
+Async Serial [1]	data	3.608926125	0.000164875	0x30	
+Async Serial [1]	data	3.6090985	0.000164875	0x30	
+Async Serial [1]	data	3.60927075	0.000164875	0x30	
+Async Serial [1]	data	3.609443	0.000164875	0x30	
+Async Serial [1]	data	3.609615375	0.000164875	0x30	
+Async Serial [1]	data	3.60978775	0.000164875	0x30	
+Async Serial [1]	data	3.60996	0.000164875	0x3F	
+Async Serial [1]	data	3.61016675	0.000164875	0x32	
+Async Serial [1]	data	3.610339125	0.000164875	0x38	
+Async Serial [1]	data	3.610511375	0.000164875	0x31	
+Async Serial [1]	data	3.61068375	0.000164875	0x30	
+Async Serial [1]	data	3.610856	0.000164875	0x30	
+Async Serial [1]	data	3.611028375	0.000164875	0x30	
+Async Serial [1]	data	3.611200625	0.000164875	0x30	
+Async Serial [1]	data	3.611372875	0.000164875	0x30	
+Async Serial [1]	data	3.611545125	0.000164875	0x30	
+Async Serial [1]	data	3.6117175	0.000164875	0x30	
+Async Serial [1]	data	3.61188975	0.000164875	0x32	
+Async Serial [1]	data	3.612062125	0.000164875	0x30	
+Async Serial [1]	data	3.6122345	0.000164875	0x30	
+Async Serial [1]	data	3.61240675	0.000164875	0x34	
+Async Serial [1]	data	3.612579	0.000164875	0x3E	
+Async Serial [1]	data	3.612751375	0.000164875	0x0D	
+Async Serial	data	3.639450625	0.000164875	0x1B	
+Async Serial	data	3.639761125	0.000164875	0x1B	
+Async Serial	data	3.639933625	0.000164875	0x38	
+Async Serial	data	3.640106125	0.000164875	0x31	
+Async Serial	data	3.640278625	0.000164875	0x3A	
+Async Serial	data	3.640451125	0.000164875	0x3B	
+Async Serial	data	3.640623625	0.000164875	0x30	
+Async Serial	data	3.640796125	0.000164875	0x3C	
+Async Serial	data	3.640968625	0.000164875	0x30	
+Async Serial	data	3.641141125	0.000164875	0x30	
+Async Serial	data	3.641313625	0.000164875	0x30	
+Async Serial	data	3.641486125	0.000164875	0x31	
+Async Serial	data	3.641658625	0.000164875	0x30	
+Async Serial	data	3.641831125	0.000164875	0x33	
+Async Serial	data	3.6420035	0.000164875	0x30	
+Async Serial	data	3.642176	0.000164875	0x30	
+Async Serial	data	3.6423485	0.000164875	0x30	
+Async Serial	data	3.642624625	0.000164875	0x30	
+Async Serial	data	3.642797125	0.000164875	0x3A	
+Async Serial	data	3.6429695	0.000164875	0x32	
+Async Serial	data	3.643142	0.000164875	0x30	
+Async Serial	data	3.6433145	0.000164875	0x31	
+Async Serial	data	3.643487	0.000164875	0x30	
+Async Serial	data	3.6436595	0.000164875	0x30	
+Async Serial	data	3.643831875	0.000164875	0x30	
+Async Serial	data	3.644004375	0.000164875	0x30	
+Async Serial	data	3.644176875	0.000164875	0x34	
+Async Serial	data	3.644349375	0.000164875	0x3B	
+Async Serial	data	3.644521875	0.000164875	0x30	
+Async Serial	data	3.644694375	0.000164875	0x30	
+Async Serial	data	3.644866875	0.000164875	0x30	
+Async Serial	data	3.645039375	0.000164875	0x30	
+Async Serial	data	3.645211875	0.000164875	0x30	
+Async Serial	data	3.645384375	0.000164875	0x30	
+Async Serial	data	3.645643125	0.000164875	0x30	
+Async Serial	data	3.645815625	0.000164875	0x38	
+Async Serial	data	3.645988125	0.000164875	0x30	
+Async Serial	data	3.646160625	0.000164875	0x30	
+Async Serial	data	3.646333125	0.000164875	0x34	
+Async Serial	data	3.646505625	0.000164875	0x31	
+Async Serial	data	3.646678125	0.000164875	0x39	
+Async Serial	data	3.646850625	0.000164875	0x3C	
+Async Serial	data	3.647023125	0.000164875	0x30	
+Async Serial	data	3.647195625	0.000164875	0x30	
+Async Serial	data	3.64736825	0.000164875	0x30	
+Async Serial	data	3.6476615	0.000164875	0x30	
+Async Serial	data	3.647834	0.000164875	0x3F	
+Async Serial	data	3.6480065	0.000164875	0x31	
+Async Serial	data	3.648179	0.000164875	0x38	
+Async Serial	data	3.6483515	0.000164875	0x31	
+Async Serial	data	3.648524	0.000164875	0x30	
+Async Serial	data	3.6486965	0.000164875	0x30	
+Async Serial	data	3.648868875	0.000164875	0x30	
+Async Serial	data	3.649041375	0.000164875	0x30	
+Async Serial	data	3.649214	0.000164875	0x30	
+Async Serial	data	3.6493865	0.000164875	0x30	
+Async Serial	data	3.6496625	0.000164875	0x30	
+Async Serial	data	3.649835	0.000164875	0x33	
+Async Serial	data	3.6500075	0.000164875	0x30	
+Async Serial	data	3.65018	0.000164875	0x30	
+Async Serial	data	3.6503525	0.000164875	0x37	
+Async Serial	data	3.650525	0.000164875	0x3C	
+Async Serial	data	3.650697625	0.000164875	0x0D	
+Async Serial [1]	data	3.7024175	0.000164875	0x1B	
+Async Serial [1]	data	3.702607125	0.000164875	0x1B	
+Async Serial [1]	data	3.702779375	0.000164875	0x38	
+Async Serial [1]	data	3.70295175	0.000164875	0x32	
+Async Serial [1]	data	3.703124	0.000164875	0x3A	
+Async Serial [1]	data	3.703296375	0.000164875	0x3B	
+Async Serial [1]	data	3.703468625	0.000164875	0x30	
+Async Serial [1]	data	3.703640875	0.000164875	0x3C	
+Async Serial [1]	data	3.70381325	0.000164875	0x30	
+Async Serial [1]	data	3.7039855	0.000164875	0x30	
+Async Serial [1]	data	3.70415775	0.000164875	0x30	
+Async Serial [1]	data	3.70433	0.000164875	0x31	
+Async Serial [1]	data	3.704519625	0.000164875	0x30	
+Async Serial [1]	data	3.704691875	0.000164875	0x33	
+Async Serial [1]	data	3.70486425	0.000164875	0x30	
+Async Serial [1]	data	3.7050365	0.000164875	0x30	
+Async Serial [1]	data	3.705208875	0.000164875	0x30	
+Async Serial [1]	data	3.705381125	0.000164875	0x30	
+Async Serial [1]	data	3.7055535	0.000164875	0x30	
+Async Serial [1]	data	3.70572575	0.000164875	0x30	
+Async Serial [1]	data	3.705898	0.000164875	0x30	
+Async Serial [1]	data	3.706070375	0.000164875	0x30	
+Async Serial [1]	data	3.706242625	0.000164875	0x30	
+Async Serial [1]	data	3.706415	0.000164875	0x30	
+Async Serial [1]	data	3.70658725	0.000164875	0x30	
+Async Serial [1]	data	3.706759625	0.000164875	0x30	
+Async Serial [1]	data	3.706931875	0.000164875	0x30	
+Async Serial [1]	data	3.70710425	0.000164875	0x30	
+Async Serial [1]	data	3.7072765	0.000164875	0x30	
+Async Serial [1]	data	3.70744875	0.000164875	0x30	
+Async Serial [1]	data	3.707621125	0.000164875	0x30	
+Async Serial [1]	data	3.707793375	0.000164875	0x30	
+Async Serial [1]	data	3.70796575	0.000164875	0x30	
+Async Serial [1]	data	3.708138	0.000164875	0x30	
+Async Serial [1]	data	3.708310375	0.000164875	0x30	
+Async Serial [1]	data	3.70848275	0.000164875	0x30	
+Async Serial [1]	data	3.708655	0.000164875	0x30	
+Async Serial [1]	data	3.708827375	0.000164875	0x30	
+Async Serial [1]	data	3.708999625	0.000164875	0x30	
+Async Serial [1]	data	3.709172	0.000164875	0x30	
+Async Serial [1]	data	3.70934425	0.000164875	0x30	
+Async Serial [1]	data	3.709551	0.000164875	0x30	
+Async Serial [1]	data	3.709723375	0.000164875	0x30	
+Async Serial [1]	data	3.709895625	0.000164875	0x30	
+Async Serial [1]	data	3.710067875	0.000164875	0x30	
+Async Serial [1]	data	3.71024025	0.000164875	0x30	
+Async Serial [1]	data	3.7104125	0.000164875	0x3F	
+Async Serial [1]	data	3.710584875	0.000164875	0x30	
+Async Serial [1]	data	3.71075725	0.000164875	0x38	
+Async Serial [1]	data	3.7109295	0.000164875	0x31	
+Async Serial [1]	data	3.711101875	0.000164875	0x30	
+Async Serial [1]	data	3.71127425	0.000164875	0x30	
+Async Serial [1]	data	3.711446625	0.000164875	0x30	
+Async Serial [1]	data	3.711618875	0.000164875	0x30	
+Async Serial [1]	data	3.71179125	0.000164875	0x30	
+Async Serial [1]	data	3.7119635	0.000164875	0x30	
+Async Serial [1]	data	3.712135875	0.000164875	0x30	
+Async Serial [1]	data	3.712308125	0.000164875	0x32	
+Async Serial [1]	data	3.7124805	0.000164875	0x30	
+Async Serial [1]	data	3.712652875	0.000164875	0x30	
+Async Serial [1]	data	3.712825125	0.000164875	0x35	
+Async Serial [1]	data	3.7129975	0.000164875	0x30	
+Async Serial [1]	data	3.71316975	0.000164875	0x0D	
+Async Serial	data	3.7399515	0.000164875	0x1B	
+Async Serial	data	3.740193125	0.000164875	0x1B	
+Async Serial	data	3.740365625	0.000164875	0x38	
+Async Serial	data	3.740538125	0.000164875	0x31	
+Async Serial	data	3.740710625	0.000164875	0x3A	
+Async Serial	data	3.740883125	0.000164875	0x3B	
+Async Serial	data	3.741141875	0.000164875	0x30	
+Async Serial	data	3.741314375	0.000164875	0x3C	
+Async Serial	data	3.741486875	0.000164875	0x30	
+Async Serial	data	3.741659375	0.000164875	0x30	
+Async Serial	data	3.741831875	0.000164875	0x30	
+Async Serial	data	3.742004375	0.000164875	0x31	
+Async Serial	data	3.742176875	0.000164875	0x30	
+Async Serial	data	3.7423495	0.000164875	0x33	
+Async Serial	data	3.742522	0.000164875	0x30	
+Async Serial	data	3.7426945	0.000164875	0x30	
+Async Serial	data	3.742866875	0.000164875	0x30	
+Async Serial	data	3.743142875	0.000164875	0x30	
+Async Serial	data	3.743315375	0.000164875	0x3A	
+Async Serial	data	3.743487875	0.000164875	0x32	
+Async Serial	data	3.743660375	0.000164875	0x30	
+Async Serial	data	3.743832875	0.000164875	0x31	
+Async Serial	data	3.744005375	0.000164875	0x30	
+Async Serial	data	3.74417775	0.000164875	0x30	
+Async Serial	data	3.74435025	0.000164875	0x30	
+Async Serial	data	3.74452275	0.000164875	0x30	
+Async Serial	data	3.74469525	0.000164875	0x34	
+Async Serial	data	3.744867625	0.000164875	0x3B	
+Async Serial	data	3.74504025	0.000164875	0x30	
+Async Serial	data	3.74521275	0.000164875	0x30	
+Async Serial	data	3.74538525	0.000164875	0x30	
+Async Serial	data	3.745557625	0.000164875	0x30	
+Async Serial	data	3.745730125	0.000164875	0x30	
+Async Serial	data	3.745902625	0.000164875	0x30	
+Async Serial	data	3.746161375	0.000164875	0x30	
+Async Serial	data	3.746333875	0.000164875	0x38	
+Async Serial	data	3.74650625	0.000164875	0x30	
+Async Serial	data	3.74667875	0.000164875	0x30	
+Async Serial	data	3.74685125	0.000164875	0x34	
+Async Serial	data	3.747023875	0.000164875	0x32	
+Async Serial	data	3.747196375	0.000164875	0x39	
+Async Serial	data	3.747368875	0.000164875	0x3C	
+Async Serial	data	3.747541375	0.000164875	0x30	
+Async Serial	data	3.747713875	0.000164875	0x30	
+Async Serial	data	3.747886375	0.000164875	0x30	
+Async Serial	data	3.748179625	0.000164875	0x33	
+Async Serial	data	3.748352125	0.000164875	0x3E	
+Async Serial	data	3.74852475	0.000164875	0x3F	
+Async Serial	data	3.74869725	0.000164875	0x38	
+Async Serial	data	3.74886975	0.000164875	0x31	
+Async Serial	data	3.74904225	0.000164875	0x30	
+Async Serial	data	3.74921475	0.000164875	0x30	
+Async Serial	data	3.74938725	0.000164875	0x30	
+Async Serial	data	3.74955975	0.000164875	0x30	
+Async Serial	data	3.749732125	0.000164875	0x30	
+Async Serial	data	3.749904625	0.000164875	0x30	
+Async Serial	data	3.750180625	0.000164875	0x30	
+Async Serial	data	3.750353125	0.000164875	0x33	
+Async Serial	data	3.750525625	0.000164875	0x30	
+Async Serial	data	3.750698125	0.000164875	0x30	
+Async Serial	data	3.7508705	0.000164875	0x37	
+Async Serial	data	3.751043	0.000164875	0x3A	
+Async Serial	data	3.7512155	0.000164875	0x0D	
+Async Serial [1]	data	3.8028265	0.000164875	0x1B	
+Async Serial [1]	data	3.802998875	0.000164875	0x1B	
+Async Serial [1]	data	3.80317125	0.000164875	0x38	
+Async Serial [1]	data	3.8033435	0.000164875	0x32	
+Async Serial [1]	data	3.803515875	0.000164875	0x3A	
+Async Serial [1]	data	3.803688125	0.000164875	0x3B	
+Async Serial [1]	data	3.8038605	0.000164875	0x30	
+Async Serial [1]	data	3.80403275	0.000164875	0x3C	
+Async Serial [1]	data	3.804205125	0.000164875	0x30	
+Async Serial [1]	data	3.8043775	0.000164875	0x30	
+Async Serial [1]	data	3.80454975	0.000164875	0x30	
+Async Serial [1]	data	3.804722125	0.000164875	0x31	
+Async Serial [1]	data	3.804911625	0.000164875	0x30	
+Async Serial [1]	data	3.805084	0.000164875	0x33	
+Async Serial [1]	data	3.80525625	0.000164875	0x30	
+Async Serial [1]	data	3.8054285	0.000164875	0x30	
+Async Serial [1]	data	3.805600875	0.000164875	0x30	
+Async Serial [1]	data	3.805773125	0.000164875	0x30	
+Async Serial [1]	data	3.805945375	0.000164875	0x30	
+Async Serial [1]	data	3.80611775	0.000164875	0x30	
+Async Serial [1]	data	3.80629	0.000164875	0x30	
+Async Serial [1]	data	3.806462375	0.000164875	0x30	
+Async Serial [1]	data	3.80663475	0.000164875	0x30	
+Async Serial [1]	data	3.806807125	0.000164875	0x30	
+Async Serial [1]	data	3.806979375	0.000164875	0x30	
+Async Serial [1]	data	3.80715175	0.000164875	0x30	
+Async Serial [1]	data	3.807324125	0.000164875	0x30	
+Async Serial [1]	data	3.807496375	0.000164875	0x30	
+Async Serial [1]	data	3.80766875	0.000164875	0x30	
+Async Serial [1]	data	3.807841125	0.000164875	0x30	
+Async Serial [1]	data	3.808013375	0.000164875	0x30	
+Async Serial [1]	data	3.80818575	0.000164875	0x30	
+Async Serial [1]	data	3.808358125	0.000164875	0x30	
+Async Serial [1]	data	3.808530375	0.000164875	0x30	
+Async Serial [1]	data	3.80870275	0.000164875	0x30	
+Async Serial [1]	data	3.808875	0.000164875	0x30	
+Async Serial [1]	data	3.809047375	0.000164875	0x30	
+Async Serial [1]	data	3.809219625	0.000164875	0x30	
+Async Serial [1]	data	3.809392	0.000164875	0x30	
+Async Serial [1]	data	3.80956425	0.000164875	0x30	
+Async Serial [1]	data	3.809736625	0.000164875	0x30	
+Async Serial [1]	data	3.809943375	0.000164875	0x30	
+Async Serial [1]	data	3.81011575	0.000164875	0x30	
+Async Serial [1]	data	3.810288	0.000164875	0x30	
+Async Serial [1]	data	3.81046025	0.000164875	0x30	
+Async Serial [1]	data	3.810632625	0.000164875	0x30	
+Async Serial [1]	data	3.810805	0.000164875	0x3E	
+Async Serial [1]	data	3.81097725	0.000164875	0x3E	
+Async Serial [1]	data	3.811149625	0.000164875	0x38	
+Async Serial [1]	data	3.811322	0.000164875	0x31	
+Async Serial [1]	data	3.81149425	0.000164875	0x30	
+Async Serial [1]	data	3.811666625	0.000164875	0x30	
+Async Serial [1]	data	3.811838875	0.000164875	0x30	
+Async Serial [1]	data	3.81201125	0.000164875	0x30	
+Async Serial [1]	data	3.812183625	0.000164875	0x30	
+Async Serial [1]	data	3.812355875	0.000164875	0x30	
+Async Serial [1]	data	3.81252825	0.000164875	0x30	
+Async Serial [1]	data	3.8127005	0.000164875	0x32	
+Async Serial [1]	data	3.812872875	0.000164875	0x30	
+Async Serial [1]	data	3.81304525	0.000164875	0x30	
+Async Serial [1]	data	3.8132175	0.000164875	0x35	
+Async Serial [1]	data	3.813389875	0.000164875	0x32	
+Async Serial [1]	data	3.81356225	0.000164875	0x0D	
+Async Serial	data	3.84046975	0.000164875	0x1B	
+Async Serial	data	3.84067675	0.000164875	0x1B	
+Async Serial	data	3.840849375	0.000164875	0x38	
+Async Serial	data	3.841021875	0.000164875	0x31	
+Async Serial	data	3.841194375	0.000164875	0x3A	
+Async Serial	data	3.841366875	0.000164875	0x3B	
+Async Serial	data	3.841642875	0.000164875	0x30	
+Async Serial	data	3.8418155	0.000164875	0x3C	
+Async Serial	data	3.841988	0.000164875	0x30	
+Async Serial	data	3.8421605	0.000164875	0x30	
+Async Serial	data	3.842333	0.000164875	0x30	
+Async Serial	data	3.8425055	0.000164875	0x31	
+Async Serial	data	3.842678	0.000164875	0x30	
+Async Serial	data	3.8428505	0.000164875	0x33	
+Async Serial	data	3.843023	0.000164875	0x30	
+Async Serial	data	3.8431955	0.000164875	0x30	
+Async Serial	data	3.843368	0.000164875	0x30	
+Async Serial	data	3.843644	0.000164875	0x30	
+Async Serial	data	3.8438165	0.000164875	0x3A	
+Async Serial	data	3.843989	0.000164875	0x32	
+Async Serial	data	3.8441615	0.000164875	0x30	
+Async Serial	data	3.844334	0.000164875	0x31	
+Async Serial	data	3.844506625	0.000164875	0x30	
+Async Serial	data	3.844679125	0.000164875	0x30	
+Async Serial	data	3.844851625	0.000164875	0x30	
+Async Serial	data	3.845024125	0.000164875	0x30	
+Async Serial	data	3.845196625	0.000164875	0x34	
+Async Serial	data	3.845369125	0.000164875	0x3B	
+Async Serial	data	3.845541625	0.000164875	0x30	
+Async Serial	data	3.845714125	0.000164875	0x30	
+Async Serial	data	3.845886625	0.000164875	0x30	
+Async Serial	data	3.846059125	0.000164875	0x30	
+Async Serial	data	3.84623175	0.000164875	0x30	
+Async Serial	data	3.84640425	0.000164875	0x30	
+Async Serial	data	3.846663	0.000164875	0x30	
+Async Serial	data	3.8468355	0.000164875	0x38	
+Async Serial	data	3.847008	0.000164875	0x30	
+Async Serial	data	3.8471805	0.000164875	0x30	
+Async Serial	data	3.847353125	0.000164875	0x34	
+Async Serial	data	3.847525625	0.000164875	0x33	
+Async Serial	data	3.847698125	0.000164875	0x39	
+Async Serial	data	3.847870625	0.000164875	0x3C	
+Async Serial	data	3.84804325	0.000164875	0x30	
+Async Serial	data	3.84821575	0.000164875	0x30	
+Async Serial	data	3.84838825	0.000164875	0x30	
+Async Serial	data	3.848681625	0.000164875	0x30	
+Async Serial	data	3.848854125	0.000164875	0x3E	
+Async Serial	data	3.849026625	0.000164875	0x3D	
+Async Serial	data	3.849199125	0.000164875	0x38	
+Async Serial	data	3.84937175	0.000164875	0x31	
+Async Serial	data	3.84954425	0.000164875	0x30	
+Async Serial	data	3.84971675	0.000164875	0x30	
+Async Serial	data	3.84988925	0.000164875	0x30	
+Async Serial	data	3.850061875	0.000164875	0x30	
+Async Serial	data	3.850234375	0.000164875	0x30	
+Async Serial	data	3.850406875	0.000164875	0x30	
+Async Serial	data	3.850683	0.000164875	0x30	
+Async Serial	data	3.8508555	0.000164875	0x33	
+Async Serial	data	3.851028	0.000164875	0x30	
+Async Serial	data	3.8512005	0.000164875	0x30	
+Async Serial	data	3.851373	0.000164875	0x37	
+Async Serial	data	3.851545625	0.000164875	0x3E	
+Async Serial	data	3.851718125	0.000164875	0x0D	
+Async Serial [1]	data	3.903252375	0.000164875	0x1B	
+Async Serial [1]	data	3.903424625	0.000164875	0x1B	
+Async Serial [1]	data	3.903597	0.000164875	0x38	
+Async Serial [1]	data	3.90376925	0.000164875	0x32	
+Async Serial [1]	data	3.903941625	0.000164875	0x3A	
+Async Serial [1]	data	3.904113875	0.000164875	0x3B	
+Async Serial [1]	data	3.90428625	0.000164875	0x30	
+Async Serial [1]	data	3.904458625	0.000164875	0x3C	
+Async Serial [1]	data	3.904630875	0.000164875	0x30	
+Async Serial [1]	data	3.90480325	0.000164875	0x30	
+Async Serial [1]	data	3.9049755	0.000164875	0x30	
+Async Serial [1]	data	3.905147875	0.000164875	0x31	
+Async Serial [1]	data	3.905354625	0.000164875	0x30	
+Async Serial [1]	data	3.905526875	0.000164875	0x33	
+Async Serial [1]	data	3.90569925	0.000164875	0x30	
+Async Serial [1]	data	3.9058715	0.000164875	0x30	
+Async Serial [1]	data	3.90604375	0.000164875	0x30	
+Async Serial [1]	data	3.906216125	0.000164875	0x30	
+Async Serial [1]	data	3.906388375	0.000164875	0x30	
+Async Serial [1]	data	3.90656075	0.000164875	0x30	
+Async Serial [1]	data	3.906733	0.000164875	0x30	
+Async Serial [1]	data	3.906905375	0.000164875	0x30	
+Async Serial [1]	data	3.90707775	0.000164875	0x30	
+Async Serial [1]	data	3.90725	0.000164875	0x30	
+Async Serial [1]	data	3.90742225	0.000164875	0x30	
+Async Serial [1]	data	3.907594625	0.000164875	0x30	
+Async Serial [1]	data	3.907766875	0.000164875	0x30	
+Async Serial [1]	data	3.907939125	0.000164875	0x30	
+Async Serial [1]	data	3.9081115	0.000164875	0x30	
+Async Serial [1]	data	3.90828375	0.000164875	0x30	
+Async Serial [1]	data	3.908456125	0.000164875	0x30	
+Async Serial [1]	data	3.908628375	0.000164875	0x30	
+Async Serial [1]	data	3.90880075	0.000164875	0x30	
+Async Serial [1]	data	3.908973	0.000164875	0x30	
+Async Serial [1]	data	3.909145375	0.000164875	0x30	
+Async Serial [1]	data	3.909317625	0.000164875	0x30	
+Async Serial [1]	data	3.90949	0.000164875	0x30	
+Async Serial [1]	data	3.90966225	0.000164875	0x30	
+Async Serial [1]	data	3.909834625	0.000164875	0x30	
+Async Serial [1]	data	3.910007	0.000164875	0x30	
+Async Serial [1]	data	3.91017925	0.000164875	0x30	
+Async Serial [1]	data	3.910368875	0.000164875	0x30	
+Async Serial [1]	data	3.910541125	0.000164875	0x30	
+Async Serial [1]	data	3.9107135	0.000164875	0x30	
+Async Serial [1]	data	3.910885875	0.000164875	0x30	
+Async Serial [1]	data	3.911058125	0.000164875	0x30	
+Async Serial [1]	data	3.9112305	0.000164875	0x3E	
+Async Serial [1]	data	3.91140275	0.000164875	0x3C	
+Async Serial [1]	data	3.911575125	0.000164875	0x38	
+Async Serial [1]	data	3.9117475	0.000164875	0x31	
+Async Serial [1]	data	3.91191975	0.000164875	0x30	
+Async Serial [1]	data	3.912092	0.000164875	0x30	
+Async Serial [1]	data	3.912264375	0.000164875	0x30	
+Async Serial [1]	data	3.912436625	0.000164875	0x30	
+Async Serial [1]	data	3.912609	0.000164875	0x30	
+Async Serial [1]	data	3.91278125	0.000164875	0x30	
+Async Serial [1]	data	3.912953625	0.000164875	0x30	
+Async Serial [1]	data	3.913126	0.000164875	0x32	
+Async Serial [1]	data	3.91329825	0.000164875	0x30	
+Async Serial [1]	data	3.913470625	0.000164875	0x30	
+Async Serial [1]	data	3.913642875	0.000164875	0x35	
+Async Serial [1]	data	3.91381525	0.000164875	0x34	
+Async Serial [1]	data	3.913987625	0.000164875	0x0D	
+Async Serial	data	3.94096725	0.000164875	0x1B	
+Async Serial	data	3.941191625	0.000164875	0x1B	
+Async Serial	data	3.941364125	0.000164875	0x38	
+Async Serial	data	3.941536625	0.000164875	0x31	
+Async Serial	data	3.941709125	0.000164875	0x3A	
+Async Serial	data	3.941881625	0.000164875	0x3B	
+Async Serial	data	3.94215775	0.000164875	0x30	
+Async Serial	data	3.94233025	0.000164875	0x3C	
+Async Serial	data	3.94250275	0.000164875	0x30	
+Async Serial	data	3.94267525	0.000164875	0x30	
+Async Serial	data	3.94284775	0.000164875	0x30	
+Async Serial	data	3.94302025	0.000164875	0x31	
+Async Serial	data	3.943192875	0.000164875	0x30	
+Async Serial	data	3.943365375	0.000164875	0x33	
+Async Serial	data	3.943537875	0.000164875	0x30	
+Async Serial	data	3.943710375	0.000164875	0x30	
+Async Serial	data	3.943882875	0.000164875	0x30	
+Async Serial	data	3.944159	0.000164875	0x30	
+Async Serial	data	3.9443315	0.000164875	0x3A	
+Async Serial	data	3.944504	0.000164875	0x32	
+Async Serial	data	3.9446765	0.000164875	0x30	
+Async Serial	data	3.944849	0.000164875	0x31	
+Async Serial	data	3.9450215	0.000164875	0x30	
+Async Serial	data	3.945194	0.000164875	0x30	
+Async Serial	data	3.9453665	0.000164875	0x30	
+Async Serial	data	3.945539	0.000164875	0x30	
+Async Serial	data	3.9457115	0.000164875	0x34	
+Async Serial	data	3.945884	0.000164875	0x3B	
+Async Serial	data	3.946056625	0.000164875	0x30	
+Async Serial	data	3.946229125	0.000164875	0x30	
+Async Serial	data	3.946401625	0.000164875	0x30	
+Async Serial	data	3.94657425	0.000164875	0x30	
+Async Serial	data	3.94674675	0.000164875	0x30	
+Async Serial	data	3.94691925	0.000164875	0x30	
+Async Serial	data	3.947178125	0.000164875	0x30	
+Async Serial	data	3.947350625	0.000164875	0x38	
+Async Serial	data	3.947523125	0.000164875	0x30	
+Async Serial	data	3.947695625	0.000164875	0x30	
+Async Serial	data	3.947868125	0.000164875	0x34	
+Async Serial	data	3.948040625	0.000164875	0x34	
+Async Serial	data	3.94821325	0.000164875	0x39	
+Async Serial	data	3.94838575	0.000164875	0x3C	
+Async Serial	data	3.94855825	0.000164875	0x30	
+Async Serial	data	3.94873075	0.000164875	0x30	
+Async Serial	data	3.94890325	0.000164875	0x30	
+Async Serial	data	3.949196625	0.000164875	0x30	
+Async Serial	data	3.949369125	0.000164875	0x3E	
+Async Serial	data	3.949541625	0.000164875	0x3B	
+Async Serial	data	3.949714125	0.000164875	0x38	
+Async Serial	data	3.94988675	0.000164875	0x31	
+Async Serial	data	3.95005925	0.000164875	0x30	
+Async Serial	data	3.95023175	0.000164875	0x30	
+Async Serial	data	3.950404375	0.000164875	0x30	
+Async Serial	data	3.950576875	0.000164875	0x30	
+Async Serial	data	3.950749375	0.000164875	0x30	
+Async Serial	data	3.950921875	0.000164875	0x30	
+Async Serial	data	3.951198	0.000164875	0x30	
+Async Serial	data	3.9513705	0.000164875	0x33	
+Async Serial	data	3.951543	0.000164875	0x30	
+Async Serial	data	3.9517155	0.000164875	0x30	
+Async Serial	data	3.951888	0.000164875	0x37	
+Async Serial	data	3.9520605	0.000164875	0x3F	
+Async Serial	data	3.952233	0.000164875	0x0D	
+Async Serial [1]	data	4.00363725	0.000164875	0x1B	
+Async Serial [1]	data	4.003844125	0.000164875	0x1B	
+Async Serial [1]	data	4.004016375	0.000164875	0x38	
+Async Serial [1]	data	4.00418875	0.000164875	0x32	
+Async Serial [1]	data	4.004361	0.000164875	0x3A	
+Async Serial [1]	data	4.004533375	0.000164875	0x3B	
+Async Serial [1]	data	4.004722875	0.000164875	0x30	
+Async Serial [1]	data	4.00489525	0.000164875	0x3C	
+Async Serial [1]	data	4.0050675	0.000164875	0x30	
+Async Serial [1]	data	4.005239875	0.000164875	0x30	
+Async Serial [1]	data	4.005412125	0.000164875	0x30	
+Async Serial [1]	data	4.0055845	0.000164875	0x31	
+Async Serial [1]	data	4.005756875	0.000164875	0x30	
+Async Serial [1]	data	4.005929125	0.000164875	0x33	
+Async Serial [1]	data	4.0061015	0.000164875	0x30	
+Async Serial [1]	data	4.006273875	0.000164875	0x30	
+Async Serial [1]	data	4.006446125	0.000164875	0x30	
+Async Serial [1]	data	4.0066185	0.000164875	0x30	
+Async Serial [1]	data	4.00679075	0.000164875	0x30	
+Async Serial [1]	data	4.006963125	0.000164875	0x30	
+Async Serial [1]	data	4.007135375	0.000164875	0x30	
+Async Serial [1]	data	4.00730775	0.000164875	0x30	
+Async Serial [1]	data	4.007480125	0.000164875	0x30	
+Async Serial [1]	data	4.007652375	0.000164875	0x30	
+Async Serial [1]	data	4.00782475	0.000164875	0x30	
+Async Serial [1]	data	4.007997	0.000164875	0x30	
+Async Serial [1]	data	4.008169375	0.000164875	0x30	
+Async Serial [1]	data	4.00834175	0.000164875	0x30	
+Async Serial [1]	data	4.008514	0.000164875	0x30	
+Async Serial [1]	data	4.008686375	0.000164875	0x30	
+Async Serial [1]	data	4.00885875	0.000164875	0x30	
+Async Serial [1]	data	4.009031	0.000164875	0x30	
+Async Serial [1]	data	4.009203375	0.000164875	0x30	
+Async Serial [1]	data	4.009375625	0.000164875	0x30	
+Async Serial [1]	data	4.009548	0.000164875	0x30	
+Async Serial [1]	data	4.00972025	0.000164875	0x30	
+Async Serial [1]	data	4.009892625	0.000164875	0x30	
+Async Serial [1]	data	4.010064875	0.000164875	0x30	
+Async Serial [1]	data	4.01023725	0.000164875	0x30	
+Async Serial [1]	data	4.0104095	0.000164875	0x30	
+Async Serial [1]	data	4.010581875	0.000164875	0x30	
+Async Serial [1]	data	4.010754125	0.000164875	0x30	
+Async Serial [1]	data	4.0109265	0.000164875	0x30	
+Async Serial [1]	data	4.01109875	0.000164875	0x30	
+Async Serial [1]	data	4.011271125	0.000164875	0x30	
+Async Serial [1]	data	4.0114435	0.000164875	0x30	
+Async Serial [1]	data	4.01161575	0.000164875	0x3E	
+Async Serial [1]	data	4.011788	0.000164875	0x3A	
+Async Serial [1]	data	4.011960375	0.000164875	0x38	
+Async Serial [1]	data	4.012132625	0.000164875	0x31	
+Async Serial [1]	data	4.012305	0.000164875	0x30	
+Async Serial [1]	data	4.01247725	0.000164875	0x30	
+Async Serial [1]	data	4.012649625	0.000164875	0x30	
+Async Serial [1]	data	4.012821875	0.000164875	0x30	
+Async Serial [1]	data	4.01299425	0.000164875	0x30	
+Async Serial [1]	data	4.0131665	0.000164875	0x30	
+Async Serial [1]	data	4.013338875	0.000164875	0x30	
+Async Serial [1]	data	4.01351125	0.000164875	0x32	
+Async Serial [1]	data	4.0136835	0.000164875	0x30	
+Async Serial [1]	data	4.013855875	0.000164875	0x30	
+Async Serial [1]	data	4.014028125	0.000164875	0x35	
+Async Serial [1]	data	4.0142005	0.000164875	0x36	
+Async Serial [1]	data	4.014372875	0.000164875	0x0D	
+Async Serial	data	4.04147075	0.000164875	0x1B	
+Async Serial	data	4.04171225	0.000164875	0x1B	
+Async Serial	data	4.04188475	0.000164875	0x38	
+Async Serial	data	4.04205725	0.000164875	0x31	
+Async Serial	data	4.04222975	0.000164875	0x3A	
+Async Serial	data	4.04240225	0.000164875	0x3B	
+Async Serial	data	4.04264375	0.000164875	0x30	
+Async Serial	data	4.042816125	0.000164875	0x3C	
+Async Serial	data	4.042988625	0.000164875	0x30	
+Async Serial	data	4.043161125	0.000164875	0x30	
+Async Serial	data	4.043333625	0.000164875	0x30	
+Async Serial	data	4.04350625	0.000164875	0x31	
+Async Serial	data	4.04367875	0.000164875	0x30	
+Async Serial	data	4.04385125	0.000164875	0x33	
+Async Serial	data	4.04402375	0.000164875	0x30	
+Async Serial	data	4.04419625	0.000164875	0x30	
+Async Serial	data	4.04436875	0.000164875	0x30	
+Async Serial	data	4.04454125	0.000164875	0x30	
+Async Serial	data	4.04471375	0.000164875	0x3A	
+Async Serial	data	4.04488625	0.000164875	0x32	
+Async Serial	data	4.04505875	0.000164875	0x30	
+Async Serial	data	4.04523125	0.000164875	0x31	
+Async Serial	data	4.04540375	0.000164875	0x30	
+Async Serial	data	4.0456625	0.000164875	0x30	
+Async Serial	data	4.045835	0.000164875	0x30	
+Async Serial	data	4.0460075	0.000164875	0x30	
+Async Serial	data	4.04618	0.000164875	0x34	
+Async Serial	data	4.0463525	0.000164875	0x3B	
+Async Serial	data	4.046525	0.000164875	0x30	
+Async Serial	data	4.0466975	0.000164875	0x30	
+Async Serial	data	4.04687	0.000164875	0x30	
+Async Serial	data	4.0470425	0.000164875	0x30	
+Async Serial	data	4.047215	0.000164875	0x30	
+Async Serial	data	4.0473875	0.000164875	0x30	
+Async Serial	data	4.04756	0.000164875	0x30	
+Async Serial	data	4.0477325	0.000164875	0x38	
+Async Serial	data	4.047905	0.000164875	0x30	
+Async Serial	data	4.0480775	0.000164875	0x30	
+Async Serial	data	4.048249875	0.000164875	0x34	
+Async Serial	data	4.048422375	0.000164875	0x35	
+Async Serial	data	4.048681125	0.000164875	0x39	
+Async Serial	data	4.048853625	0.000164875	0x3C	
+Async Serial	data	4.049026	0.000164875	0x30	
+Async Serial	data	4.0491985	0.000164875	0x30	
+Async Serial	data	4.049371	0.000164875	0x30	
+Async Serial	data	4.0495435	0.000164875	0x30	
+Async Serial	data	4.049716	0.000164875	0x3E	
+Async Serial	data	4.0498885	0.000164875	0x39	
+Async Serial	data	4.050061	0.000164875	0x38	
+Async Serial	data	4.0502335	0.000164875	0x31	
+Async Serial	data	4.050406	0.000164875	0x30	
+Async Serial	data	4.0505785	0.000164875	0x30	
+Async Serial	data	4.050751	0.000164875	0x30	
+Async Serial	data	4.0509235	0.000164875	0x30	
+Async Serial	data	4.051096	0.000164875	0x30	
+Async Serial	data	4.0512685	0.000164875	0x30	
+Async Serial	data	4.051441	0.000164875	0x30	
+Async Serial	data	4.051699625	0.000164875	0x33	
+Async Serial	data	4.051872125	0.000164875	0x30	
+Async Serial	data	4.052044625	0.000164875	0x30	
+Async Serial	data	4.052217125	0.000164875	0x38	
+Async Serial	data	4.052389625	0.000164875	0x30	
+Async Serial	data	4.052562125	0.000164875	0x0D	
+Async Serial [1]	data	4.104074	0.000164875	0x1B	
+Async Serial [1]	data	4.104246375	0.000164875	0x1B	
+Async Serial [1]	data	4.104418625	0.000164875	0x38	
+Async Serial [1]	data	4.104591	0.000164875	0x32	
+Async Serial [1]	data	4.10476325	0.000164875	0x3A	
+Async Serial [1]	data	4.104935625	0.000164875	0x3B	
+Async Serial [1]	data	4.105107875	0.000164875	0x30	
+Async Serial [1]	data	4.10528025	0.000164875	0x3C	
+Async Serial [1]	data	4.1054525	0.000164875	0x30	
+Async Serial [1]	data	4.105624875	0.000164875	0x30	
+Async Serial [1]	data	4.105797125	0.000164875	0x30	
+Async Serial [1]	data	4.1059695	0.000164875	0x31	
+Async Serial [1]	data	4.10617625	0.000164875	0x30	
+Async Serial [1]	data	4.106348625	0.000164875	0x33	
+Async Serial [1]	data	4.106521	0.000164875	0x30	
+Async Serial [1]	data	4.10669325	0.000164875	0x30	
+Async Serial [1]	data	4.106865625	0.000164875	0x30	
+Async Serial [1]	data	4.107037875	0.000164875	0x30	
+Async Serial [1]	data	4.10721025	0.000164875	0x30	
+Async Serial [1]	data	4.107382625	0.000164875	0x30	
+Async Serial [1]	data	4.107554875	0.000164875	0x30	
+Async Serial [1]	data	4.10772725	0.000164875	0x30	
+Async Serial [1]	data	4.107899625	0.000164875	0x30	
+Async Serial [1]	data	4.108071875	0.000164875	0x30	
+Async Serial [1]	data	4.10824425	0.000164875	0x30	
+Async Serial [1]	data	4.1084165	0.000164875	0x30	
+Async Serial [1]	data	4.10858875	0.000164875	0x30	
+Async Serial [1]	data	4.108761125	0.000164875	0x30	
+Async Serial [1]	data	4.108933375	0.000164875	0x30	
+Async Serial [1]	data	4.109105625	0.000164875	0x30	
+Async Serial [1]	data	4.109278	0.000164875	0x30	
+Async Serial [1]	data	4.109450375	0.000164875	0x30	
+Async Serial [1]	data	4.109622625	0.000164875	0x30	
+Async Serial [1]	data	4.109795	0.000164875	0x30	
+Async Serial [1]	data	4.10996725	0.000164875	0x30	
+Async Serial [1]	data	4.1101395	0.000164875	0x30	
+Async Serial [1]	data	4.110311875	0.000164875	0x30	
+Async Serial [1]	data	4.11048425	0.000164875	0x30	
+Async Serial [1]	data	4.1106565	0.000164875	0x30	
+Async Serial [1]	data	4.110828875	0.000164875	0x30	
+Async Serial [1]	data	4.111001125	0.000164875	0x30	
+Async Serial [1]	data	4.111190625	0.000164875	0x30	
+Async Serial [1]	data	4.111363	0.000164875	0x30	
+Async Serial [1]	data	4.11153525	0.000164875	0x30	
+Async Serial [1]	data	4.111707625	0.000164875	0x30	
+Async Serial [1]	data	4.111879875	0.000164875	0x30	
+Async Serial [1]	data	4.11205225	0.000164875	0x3E	
+Async Serial [1]	data	4.112224625	0.000164875	0x38	
+Async Serial [1]	data	4.112396875	0.000164875	0x38	
+Async Serial [1]	data	4.11256925	0.000164875	0x31	
+Async Serial [1]	data	4.1127415	0.000164875	0x30	
+Async Serial [1]	data	4.112913875	0.000164875	0x30	
+Async Serial [1]	data	4.113086125	0.000164875	0x30	
+Async Serial [1]	data	4.1132585	0.000164875	0x30	
+Async Serial [1]	data	4.113430875	0.000164875	0x30	
+Async Serial [1]	data	4.113603125	0.000164875	0x30	
+Async Serial [1]	data	4.113775375	0.000164875	0x30	
+Async Serial [1]	data	4.113947625	0.000164875	0x32	
+Async Serial [1]	data	4.11412	0.000164875	0x30	
+Async Serial [1]	data	4.11429225	0.000164875	0x30	
+Async Serial [1]	data	4.114464625	0.000164875	0x35	
+Async Serial [1]	data	4.114637	0.000164875	0x38	
+Async Serial [1]	data	4.114809375	0.000164875	0x0D	
+Async Serial	data	4.141965375	0.000164875	0x1B	
+Async Serial	data	4.142189625	0.000164875	0x1B	
+Async Serial	data	4.142362125	0.000164875	0x38	
+Async Serial	data	4.142534625	0.000164875	0x31	
+Async Serial	data	4.142707125	0.000164875	0x3A	
+Async Serial	data	4.142879625	0.000164875	0x3B	
+Async Serial	data	4.143138375	0.000164875	0x30	
+Async Serial	data	4.143310875	0.000164875	0x3C	
+Async Serial	data	4.143483375	0.000164875	0x30	
+Async Serial	data	4.143655875	0.000164875	0x30	
+Async Serial	data	4.143828375	0.000164875	0x30	
+Async Serial	data	4.144001	0.000164875	0x31	
+Async Serial	data	4.1441735	0.000164875	0x30	
+Async Serial	data	4.144345875	0.000164875	0x33	
+Async Serial	data	4.144518375	0.000164875	0x30	
+Async Serial	data	4.144691	0.000164875	0x30	
+Async Serial	data	4.1448635	0.000164875	0x30	
+Async Serial	data	4.145036	0.000164875	0x30	
+Async Serial	data	4.1452085	0.000164875	0x3A	
+Async Serial	data	4.145381	0.000164875	0x32	
+Async Serial	data	4.145553375	0.000164875	0x30	
+Async Serial	data	4.145725875	0.000164875	0x31	
+Async Serial	data	4.145898375	0.000164875	0x30	
+Async Serial	data	4.14615725	0.000164875	0x30	
+Async Serial	data	4.14632975	0.000164875	0x30	
+Async Serial	data	4.14650225	0.000164875	0x30	
+Async Serial	data	4.14667475	0.000164875	0x34	
+Async Serial	data	4.14684725	0.000164875	0x3B	
+Async Serial	data	4.147019875	0.000164875	0x30	
+Async Serial	data	4.147192375	0.000164875	0x30	
+Async Serial	data	4.147364875	0.000164875	0x30	
+Async Serial	data	4.147537375	0.000164875	0x30	
+Async Serial	data	4.147709875	0.000164875	0x30	
+Async Serial	data	4.147882375	0.000164875	0x30	
+Async Serial	data	4.1481585	0.000164875	0x30	
+Async Serial	data	4.148331	0.000164875	0x38	
+Async Serial	data	4.1485035	0.000164875	0x30	
+Async Serial	data	4.148676	0.000164875	0x30	
+Async Serial	data	4.1488485	0.000164875	0x34	
+Async Serial	data	4.149021	0.000164875	0x36	
+Async Serial	data	4.1491935	0.000164875	0x39	
+Async Serial	data	4.149366	0.000164875	0x3C	
+Async Serial	data	4.1495385	0.000164875	0x30	
+Async Serial	data	4.149710875	0.000164875	0x30	
+Async Serial	data	4.149883375	0.000164875	0x30	
+Async Serial	data	4.150055875	0.000164875	0x30	
+Async Serial	data	4.150228375	0.000164875	0x3E	
+Async Serial	data	4.150400875	0.000164875	0x37	
+Async Serial	data	4.150573375	0.000164875	0x38	
+Async Serial	data	4.15074575	0.000164875	0x31	
+Async Serial	data	4.15091825	0.000164875	0x30	
+Async Serial	data	4.151177	0.000164875	0x30	
+Async Serial	data	4.1513495	0.000164875	0x30	
+Async Serial	data	4.151522	0.000164875	0x30	
+Async Serial	data	4.1516945	0.000164875	0x30	
+Async Serial	data	4.151867	0.000164875	0x30	
+Async Serial	data	4.1520395	0.000164875	0x30	
+Async Serial	data	4.152212	0.000164875	0x33	
+Async Serial	data	4.1523845	0.000164875	0x30	
+Async Serial	data	4.152557	0.000164875	0x30	
+Async Serial	data	4.152729375	0.000164875	0x38	
+Async Serial	data	4.152901875	0.000164875	0x31	
+Async Serial	data	4.153074375	0.000164875	0x0D	
+Async Serial [1]	data	4.2044535	0.000164875	0x1B	
+Async Serial [1]	data	4.20466025	0.000164875	0x1B	
+Async Serial [1]	data	4.204832625	0.000164875	0x38	
+Async Serial [1]	data	4.205004875	0.000164875	0x32	
+Async Serial [1]	data	4.205177125	0.000164875	0x3A	
+Async Serial [1]	data	4.2053495	0.000164875	0x3B	
+Async Serial [1]	data	4.205539	0.000164875	0x30	
+Async Serial [1]	data	4.205711375	0.000164875	0x3C	
+Async Serial [1]	data	4.205883625	0.000164875	0x30	
+Async Serial [1]	data	4.206056	0.000164875	0x30	
+Async Serial [1]	data	4.20622825	0.000164875	0x30	
+Async Serial [1]	data	4.206400625	0.000164875	0x31	
+Async Serial [1]	data	4.206572875	0.000164875	0x30	
+Async Serial [1]	data	4.20674525	0.000164875	0x33	
+Async Serial [1]	data	4.2069175	0.000164875	0x30	
+Async Serial [1]	data	4.20708975	0.000164875	0x30	
+Async Serial [1]	data	4.207262125	0.000164875	0x30	
+Async Serial [1]	data	4.207434375	0.000164875	0x30	
+Async Serial [1]	data	4.20760675	0.000164875	0x30	
+Async Serial [1]	data	4.207779	0.000164875	0x30	
+Async Serial [1]	data	4.20795125	0.000164875	0x30	
+Async Serial [1]	data	4.208123625	0.000164875	0x30	
+Async Serial [1]	data	4.208295875	0.000164875	0x30	
+Async Serial [1]	data	4.20846825	0.000164875	0x30	
+Async Serial [1]	data	4.2086405	0.000164875	0x30	
+Async Serial [1]	data	4.208812875	0.000164875	0x30	
+Async Serial [1]	data	4.208985125	0.000164875	0x30	
+Async Serial [1]	data	4.2091575	0.000164875	0x30	
+Async Serial [1]	data	4.20932975	0.000164875	0x30	
+Async Serial [1]	data	4.209502	0.000164875	0x30	
+Async Serial [1]	data	4.20967425	0.000164875	0x30	
+Async Serial [1]	data	4.209846625	0.000164875	0x30	
+Async Serial [1]	data	4.210018875	0.000164875	0x30	
+Async Serial [1]	data	4.210191125	0.000164875	0x30	
+Async Serial [1]	data	4.2103635	0.000164875	0x30	
+Async Serial [1]	data	4.21057025	0.000164875	0x30	
+Async Serial [1]	data	4.2107425	0.000164875	0x30	
+Async Serial [1]	data	4.21091475	0.000164875	0x30	
+Async Serial [1]	data	4.211087125	0.000164875	0x30	
+Async Serial [1]	data	4.211259375	0.000164875	0x30	
+Async Serial [1]	data	4.21143175	0.000164875	0x30	
+Async Serial [1]	data	4.211604	0.000164875	0x30	
+Async Serial [1]	data	4.211776375	0.000164875	0x30	
+Async Serial [1]	data	4.211948625	0.000164875	0x30	
+Async Serial [1]	data	4.212120875	0.000164875	0x30	
+Async Serial [1]	data	4.21229325	0.000164875	0x30	
+Async Serial [1]	data	4.2124655	0.000164875	0x3E	
+Async Serial [1]	data	4.21263775	0.000164875	0x36	
+Async Serial [1]	data	4.212810125	0.000164875	0x38	
+Async Serial [1]	data	4.212982375	0.000164875	0x31	
+Async Serial [1]	data	4.213154625	0.000164875	0x30	
+Async Serial [1]	data	4.213327	0.000164875	0x30	
+Async Serial [1]	data	4.21349925	0.000164875	0x30	
+Async Serial [1]	data	4.2136715	0.000164875	0x30	
+Async Serial [1]	data	4.213843875	0.000164875	0x30	
+Async Serial [1]	data	4.214016125	0.000164875	0x30	
+Async Serial [1]	data	4.214188375	0.000164875	0x30	
+Async Serial [1]	data	4.214360625	0.000164875	0x32	
+Async Serial [1]	data	4.214533	0.000164875	0x30	
+Async Serial [1]	data	4.21470525	0.000164875	0x30	
+Async Serial [1]	data	4.2148775	0.000164875	0x35	
+Async Serial [1]	data	4.215049875	0.000164875	0x3A	
+Async Serial [1]	data	4.215222125	0.000164875	0x0D	
