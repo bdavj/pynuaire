@@ -2,6 +2,8 @@
 
 Reverse-engineered UART protocol for the **Nuaire Drimaster ECO-HC** whole-house mechanical extract ventilation (dMEV) fan, enabling programmatic speed control via serial.
 
+This repo is not associated or endorsed by Nuaire in any way.
+
 Developed and tested on the **Drimaster ECO-HC**. Other Nuaire units with an internal UART bus may use a similar or identical protocol — PRs and captures from other models are very welcome.
 
 The Drimaster's internal bus uses an inverted UART link (57600 8N1) between the motor unit and controller board. This project decodes that protocol and provides a Python controller that can set fan speed levels 1-6.
