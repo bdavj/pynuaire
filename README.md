@@ -2,7 +2,7 @@
 
 Reverse-engineered UART protocol for the **Nuaire Drimaster ECO-HC** whole-house mechanical extract ventilation (dMEV) fan, enabling programmatic speed control via serial.
 
-This repo is not associated or endorsed by Nuaire in any way.
+> **Not affiliated with or endorsed by Nuaire Ltd.** Nuaire is a trademark of its respective owner. This is independent, community-developed work.
 
 Developed and tested on the **Drimaster ECO-HC**. Other Nuaire units with an internal UART bus may use a similar or identical protocol — PRs and captures from other models are very welcome.
 
@@ -40,11 +40,16 @@ To change speed: set B05 to the new level, set B18=`0x02` on that first packet, 
 
 See [PROTOCOL.md](PROTOCOL.md) for full protocol documentation.
 
+## ESPHome / Home Assistant
+
+Want to control the fan from Home Assistant? See the companion ESPHome component:
+
+**[esphome-pynuaire](https://github.com/bdavj/esphome-pynuaire)** — plug-and-play integration with fan speed control and status sensors.
+
 ## Files
 
 - **`controller.py`** - Fan speed controller (the main thing)
 - **`PROTOCOL.md`** - Complete protocol reverse engineering notes
-- **`main.py`** - Original Raspberry Pi Pico UART decoder (MicroPython)
 - **`captures/`** - Saleae logic analyser exports at each speed level and during transitions
 
 ## Why "PyNuaire"?
